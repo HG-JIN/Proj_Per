@@ -34,6 +34,9 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "home";
+		
+		// 이형근 바보
+		// 멍청이
 	}
 	
 }
